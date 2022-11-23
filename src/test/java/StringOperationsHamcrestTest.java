@@ -55,12 +55,7 @@ class StringOperationsHamcrestTest {
 
     @Test
     public void testConcatTwoStringsHamcrest() {
-        //given
-        String arg1 = "abc";
-        String arg2 = "cba";
-
-        //then
-        assertThat(stringOperations.concat(arg1, arg2), hasLength(arg1.length() + arg2.length()), equalTo("abccba"));
+        assertThat(stringOperations.concat("abc", "cba"), hasLength(6), equalTo("abccba"));
     }
 
 
