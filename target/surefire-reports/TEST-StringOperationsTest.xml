@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PL"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\kubsl\AppData\Local\Temp\surefire17337604356590480656\surefirebooter16995287429300275283.jar C:\Users\kubsl\AppData\Local\Temp\surefire17337604356590480656 2022-11-19T16-59-56_565-jvmRun1 surefire10383058457122553998tmp surefire_06539103271109978301tmp"/>
+    <property name="sun.java.command" value="C:\Users\kubsl\AppData\Local\Temp\surefire6775905149744016808\surefirebooter18020694995298907606.jar C:\Users\kubsl\AppData\Local\Temp\surefire6775905149744016808 2022-11-19T18-39-23_306-jvmRun1 surefire17305201506822037026tmp surefire_012893936102362858540tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\kubsl\Desktop\Nauka własna\Stepik\target\test-classes;C:\Users\kubsl\Desktop\Nauka własna\Stepik\target\classes;C:\Users\kubsl\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\kubsl\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\kubsl\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\kubsl\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\kubsl\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\kubsl\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;C:\Users\kubsl\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;C:\Users\kubsl\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\kubsl\AppData\Local\Temp\surefire17337604356590480656\surefirebooter16995287429300275283.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kubsl\AppData\Local\Temp\surefire6775905149744016808\surefirebooter18020694995298907606.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
@@ -56,13 +56,13 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testConcatTwoStrings" classname="StringOperationsTest" time="0.011"/>
-  <testcase name="testOtherWordIsPalindrome" classname="StringOperationsTest" time="0.004"/>
+  <testcase name="testConcatTwoStrings" classname="StringOperationsTest" time="0.012"/>
+  <testcase name="testOtherWordIsPalindrome" classname="StringOperationsTest" time="0.005"/>
   <testcase name="testWordIsNotPalindrome" classname="StringOperationsTest" time="0.001"/>
   <testcase name="testOtherConcatThrowsNullException" classname="StringOperationsTest" time="0.002"/>
   <testcase name="testConcatThrowsNullException" classname="StringOperationsTest" time="0.001"/>
   <testcase name="testReverseThrowsNullException" classname="StringOperationsTest" time="0.001"/>
-  <testcase name="testWordIsPalindrome" classname="StringOperationsTest" time="0.001"/>
+  <testcase name="testWordIsPalindrome" classname="StringOperationsTest" time="0"/>
   <testcase name="testReverseWord" classname="StringOperationsTest" time="0"/>
   <testcase name="testOtherConcatTwoStrings" classname="StringOperationsTest" time="0.001"/>
   <testcase name="testReverseWithNumber" classname="StringOperationsTest" time="0"/>
